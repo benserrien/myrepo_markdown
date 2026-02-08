@@ -18,3 +18,5 @@ knitr::opts_chunk$set(echo = TRUE)
 #+ r cars
 summary(cars)
 
+
+str(cars)
